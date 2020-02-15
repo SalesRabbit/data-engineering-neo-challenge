@@ -7,9 +7,9 @@ For this challenge you will create an ETL to capture information about NEOs (Nea
 Using any language and database system you are comfortable with, create an ETL to process data from NASA's Near Earth Object Web Service. Your goal is to determine if and when any hazardous objects will be approaching earth, how close they will get, and save the information to a database for review in Part 2.
 
 NASA's web service, including example API calls, can be found here:
-https://api.nasa.gov/api.html#NeoWS
+https://api.nasa.gov/
 
-Note the NASA API severely rate limits their default public key. It's not strictly required for this exercise, but you can quickly register to get a more expansive API key [here](https://api.nasa.gov/index.html#apply-for-an-api-key). Please do not include your API key in your submission. 
+Note the NASA API severely rate limits their default public key. It's not strictly required for this exercise, but you can quickly register to get a more expansive API key [here](https://api.nasa.gov/). Please do not include your API key in your submission. 
 
 The ETL should perform the following when invoked:
 
